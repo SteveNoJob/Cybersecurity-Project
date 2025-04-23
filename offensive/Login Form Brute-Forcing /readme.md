@@ -5,4 +5,4 @@ Login Form Brute-Forcing Tool is a basic Python script that automates the proces
 - None
 
 ## Notes
-- Change the wordlist to [SecList](https://github.com/danielmiessler/SecLists) for pratical uses
+- Change the wordlist to [SecList](https://github.com/danielmiessler/SecLists) for practical uses.
